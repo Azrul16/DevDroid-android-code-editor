@@ -1,0 +1,24 @@
+# Global fallback owner
+* @Azrul16
+
+# Flutter app code
+/lib/ @Azrul16
+/test/ @Azrul16
+
+# Platform-specific code
+/android/ @Azrul16
+/ios/ @Azrul16
+/macos/ @Azrul16
+/linux/ @Azrul16
+/windows/ @Azrul16
+/web/ @Azrul16
+
+# Tooling and project configuration
+/pubspec.yaml @Azrul16
+/pubspec.lock @Azrul16
+/analysis_options.yaml @Azrul16
+
+# Docs and community files
+/README.md @Azrul16
+/LICENSE @Azrul16
+/.github/ @Azrul16
